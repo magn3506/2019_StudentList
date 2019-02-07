@@ -35,8 +35,6 @@ function getDataFilter() {
 
   filterKnap = this.getAttribute("data-house");
 
-  console.log(filterKnap + 123);
-
   filterList();
 }
 
